@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 'http://qjxotasr3.hn-bkt.clouddn.com/banner.jpg?e=1605608392&attname=&token=Qo51LCjI2e1F27QOxieHG9-9eMRKPDlA8A12tQHi:GPRcihR2YNjSBS8JFQ2Ubnexhwg='
+heroImage: /logo.jpg
 heroText: Little Abramovich front learning record
 tagline: null
 actionText: Come with me →

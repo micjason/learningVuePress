@@ -1,3 +1,4 @@
+
 ## vue路由
 
 1. 定义一个router文件夹，新建`index.js`，引入vue和vue-router，然后引入各个组件，`Vue.use(Router)`,编写路由规则，

@@ -1,3 +1,4 @@
+
 ### 关于text-align:justify的使用心得
 有时候我们会碰到下面这样的对齐方式
 ![demo.jpg](https://upload-images.jianshu.io/upload_images/12518470-061e91035d4ffdb4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
